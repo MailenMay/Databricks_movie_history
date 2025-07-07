@@ -11,7 +11,7 @@ Explorar tendencias del cine a lo largo de las décadas: géneros más comunes, 
 - 🧠 Databricks Notebooks (Python + SQL)
 - ⚡ PySpark y SparkSQL
 - 📈 Databricks Visualizations
-- 🗃 Dataset de películas (fuente: [TMDB / IMDB / Kaggle](#)) — ⚠️ reemplazar con fuente real
+- 🗃 Dataset de películas (fuente: ) 
 
 ## 📁 Estructura del proyecto
 
